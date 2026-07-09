@@ -1,0 +1,492 @@
+[
+  {
+    "id": "Q00001",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00001] What regulatory deadline applies to serious adverse event criteria when seriousness flag is set on case AGENTI-00001?",
+    "answer": "Regulatory deadline for serious adverse event criteria is 15 calendar days. Flag report AGENTI-00001 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00001 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00016",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00016] How should triage assess medication error reporting for case AGENTI-00016 involving drug DrugC?",
+    "answer": "Regulatory deadline for medication error reporting is 30 calendar days. Flag report AGENTI-00016 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00016 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00031",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00031] How do agents resolve aggregate safety signal when duplicate signal matches case AGENTI-00031?",
+    "answer": "Regulatory deadline for aggregate safety signal is 15 calendar days. Flag report AGENTI-00031 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00031 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00046",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00046] Does causality grading trigger MedWatch submission for report AGENTI-00046 within 15 days?",
+    "answer": "Regulatory deadline for causality grading is 15 calendar days. Flag report AGENTI-00046 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00046 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00061",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00061] What priority score adjustment applies to serious adverse event criteria with severity life-threatening?",
+    "answer": "Regulatory deadline for serious adverse event criteria is 45 calendar days. Flag report AGENTI-00061 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00061 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00076",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00076] How is medication error reporting documented in case AGENTI-00076 before routing to Regulatory Affairs?",
+    "answer": "Regulatory deadline for medication error reporting is 45 calendar days. Flag report AGENTI-00076 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00076 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00091",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00091] When does aggregate safety signal require clinician review by specialty clinical pharmacology?",
+    "answer": "Regulatory deadline for aggregate safety signal is 30 calendar days. Flag report AGENTI-00091 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00091 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00106",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00106] Which knowledge base article supports causality grading for event rash?",
+    "answer": "Regulatory deadline for causality grading is 7 calendar days. Flag report AGENTI-00106 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00106 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00121",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00121] What regulatory deadline applies to serious adverse event criteria when seriousness flag is set on case AGENTI-00121?",
+    "answer": "Regulatory deadline for serious adverse event criteria is 60 calendar days. Flag report AGENTI-00121 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00121 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00136",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00136] How should triage assess medication error reporting for case AGENTI-00136 involving drug BiologicX?",
+    "answer": "Regulatory deadline for medication error reporting is 7 calendar days. Flag report AGENTI-00136 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00136 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00151",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00151] How do agents resolve aggregate safety signal when duplicate signal matches case AGENTI-00151?",
+    "answer": "Regulatory deadline for aggregate safety signal is 45 calendar days. Flag report AGENTI-00151 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00151 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00166",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00166] Does causality grading trigger MedWatch submission for report AGENTI-00166 within 90 days?",
+    "answer": "Regulatory deadline for causality grading is 90 calendar days. Flag report AGENTI-00166 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00166 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00181",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00181] What priority score adjustment applies to serious adverse event criteria with severity moderate?",
+    "answer": "Regulatory deadline for serious adverse event criteria is 60 calendar days. Flag report AGENTI-00181 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00181 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00196",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00196] How is medication error reporting documented in case AGENTI-00196 before routing to Medical Review?",
+    "answer": "Regulatory deadline for medication error reporting is 15 calendar days. Flag report AGENTI-00196 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00196 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00211",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00211] When does aggregate safety signal require clinician review by specialty dermatology?",
+    "answer": "Regulatory deadline for aggregate safety signal is 15 calendar days. Flag report AGENTI-00211 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00211 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00226",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00226] Which knowledge base article supports causality grading for event hepatotoxicity?",
+    "answer": "Regulatory deadline for causality grading is 7 calendar days. Flag report AGENTI-00226 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00226 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00241",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00241] What regulatory deadline applies to serious adverse event criteria when seriousness flag is set on case AGENTI-00241?",
+    "answer": "Regulatory deadline for serious adverse event criteria is 15 calendar days. Flag report AGENTI-00241 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00241 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00256",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00256] How should triage assess medication error reporting for case AGENTI-00256 involving drug DrugA?",
+    "answer": "Regulatory deadline for medication error reporting is 90 calendar days. Flag report AGENTI-00256 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00256 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00271",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00271] How do agents resolve aggregate safety signal when duplicate signal matches case AGENTI-00271?",
+    "answer": "Regulatory deadline for aggregate safety signal is 90 calendar days. Flag report AGENTI-00271 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00271 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00286",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00286] Does causality grading trigger MedWatch submission for report AGENTI-00286 within 90 days?",
+    "answer": "Regulatory deadline for causality grading is 90 calendar days. Flag report AGENTI-00286 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00286 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00301",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00301] What priority score adjustment applies to serious adverse event criteria with severity severe?",
+    "answer": "Regulatory deadline for serious adverse event criteria is 7 calendar days. Flag report AGENTI-00301 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00301 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00316",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00316] How is medication error reporting documented in case AGENTI-00316 before routing to Medical Review?",
+    "answer": "Regulatory deadline for medication error reporting is 30 calendar days. Flag report AGENTI-00316 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00316 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00331",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00331] When does aggregate safety signal require clinician review by specialty cardiology?",
+    "answer": "Regulatory deadline for aggregate safety signal is 45 calendar days. Flag report AGENTI-00331 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00331 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00346",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00346] Which knowledge base article supports causality grading for event syncope?",
+    "answer": "Regulatory deadline for causality grading is 30 calendar days. Flag report AGENTI-00346 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00346 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00361",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00361] What regulatory deadline applies to serious adverse event criteria when seriousness flag is set on case AGENTI-00361?",
+    "answer": "Regulatory deadline for serious adverse event criteria is 15 calendar days. Flag report AGENTI-00361 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00361 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00376",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00376] How should triage assess medication error reporting for case AGENTI-00376 involving drug VaccineY?",
+    "answer": "Regulatory deadline for medication error reporting is 60 calendar days. Flag report AGENTI-00376 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00376 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00391",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00391] How do agents resolve aggregate safety signal when duplicate signal matches case AGENTI-00391?",
+    "answer": "Regulatory deadline for aggregate safety signal is 60 calendar days. Flag report AGENTI-00391 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00391 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00406",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00406] Does causality grading trigger MedWatch submission for report AGENTI-00406 within 90 days?",
+    "answer": "Regulatory deadline for causality grading is 90 calendar days. Flag report AGENTI-00406 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00406 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00421",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00421] What priority score adjustment applies to serious adverse event criteria with severity severe?",
+    "answer": "Regulatory deadline for serious adverse event criteria is 45 calendar days. Flag report AGENTI-00421 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00421 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00436",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00436] How is medication error reporting documented in case AGENTI-00436 before routing to PV Operations?",
+    "answer": "Regulatory deadline for medication error reporting is 30 calendar days. Flag report AGENTI-00436 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00436 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00451",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00451] When does aggregate safety signal require clinician review by specialty cardiology?",
+    "answer": "Regulatory deadline for aggregate safety signal is 30 calendar days. Flag report AGENTI-00451 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00451 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00466",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00466] Which knowledge base article supports causality grading for event GI bleed?",
+    "answer": "Regulatory deadline for causality grading is 7 calendar days. Flag report AGENTI-00466 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00466 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00481",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00481] What regulatory deadline applies to serious adverse event criteria when seriousness flag is set on case AGENTI-00481?",
+    "answer": "Regulatory deadline for serious adverse event criteria is 60 calendar days. Flag report AGENTI-00481 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00481 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00496",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00496] How should triage assess medication error reporting for case AGENTI-00496 involving drug DrugC?",
+    "answer": "Regulatory deadline for medication error reporting is 90 calendar days. Flag report AGENTI-00496 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00496 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00511",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00511] How do agents resolve aggregate safety signal when duplicate signal matches case AGENTI-00511?",
+    "answer": "Regulatory deadline for aggregate safety signal is 60 calendar days. Flag report AGENTI-00511 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00511 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00526",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00526] Does causality grading trigger MedWatch submission for report AGENTI-00526 within 60 days?",
+    "answer": "Regulatory deadline for causality grading is 60 calendar days. Flag report AGENTI-00526 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00526 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00541",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00541] What priority score adjustment applies to serious adverse event criteria with severity moderate?",
+    "answer": "Regulatory deadline for serious adverse event criteria is 7 calendar days. Flag report AGENTI-00541 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00541 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00556",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00556] How is medication error reporting documented in case AGENTI-00556 before routing to PV Operations?",
+    "answer": "Regulatory deadline for medication error reporting is 30 calendar days. Flag report AGENTI-00556 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00556 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00571",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00571] When does aggregate safety signal require clinician review by specialty dermatology?",
+    "answer": "Regulatory deadline for aggregate safety signal is 7 calendar days. Flag report AGENTI-00571 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00571 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00586",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00586] Which knowledge base article supports causality grading for event hepatotoxicity?",
+    "answer": "Regulatory deadline for causality grading is 7 calendar days. Flag report AGENTI-00586 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00586 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00601",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00601] What regulatory deadline applies to serious adverse event criteria when seriousness flag is set on case AGENTI-00601?",
+    "answer": "Regulatory deadline for serious adverse event criteria is 15 calendar days. Flag report AGENTI-00601 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00601 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00616",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00616] How should triage assess medication error reporting for case AGENTI-00616 involving drug VaccineY?",
+    "answer": "Regulatory deadline for medication error reporting is 7 calendar days. Flag report AGENTI-00616 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00616 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00631",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00631] How do agents resolve aggregate safety signal when duplicate signal matches case AGENTI-00631?",
+    "answer": "Regulatory deadline for aggregate safety signal is 90 calendar days. Flag report AGENTI-00631 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00631 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00646",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00646] Does causality grading trigger MedWatch submission for report AGENTI-00646 within 30 days?",
+    "answer": "Regulatory deadline for causality grading is 30 calendar days. Flag report AGENTI-00646 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00646 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00661",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00661] What priority score adjustment applies to serious adverse event criteria with severity severe?",
+    "answer": "Regulatory deadline for serious adverse event criteria is 14 calendar days. Flag report AGENTI-00661 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00661 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00676",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00676] How is medication error reporting documented in case AGENTI-00676 before routing to Medical Review?",
+    "answer": "Regulatory deadline for medication error reporting is 45 calendar days. Flag report AGENTI-00676 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00676 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00691",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00691] When does aggregate safety signal require clinician review by specialty cardiology?",
+    "answer": "Regulatory deadline for aggregate safety signal is 45 calendar days. Flag report AGENTI-00691 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00691 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00706",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00706] Which knowledge base article supports causality grading for event anaphylaxis?",
+    "answer": "Regulatory deadline for causality grading is 14 calendar days. Flag report AGENTI-00706 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00706 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00721",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00721] What regulatory deadline applies to serious adverse event criteria when seriousness flag is set on case AGENTI-00721?",
+    "answer": "Regulatory deadline for serious adverse event criteria is 45 calendar days. Flag report AGENTI-00721 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00721 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00736",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00736] How should triage assess medication error reporting for case AGENTI-00736 involving drug VaccineY?",
+    "answer": "Regulatory deadline for medication error reporting is 14 calendar days. Flag report AGENTI-00736 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00736 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00751",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00751] How do agents resolve aggregate safety signal when duplicate signal matches case AGENTI-00751?",
+    "answer": "Regulatory deadline for aggregate safety signal is 60 calendar days. Flag report AGENTI-00751 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00751 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00766",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00766] Does causality grading trigger MedWatch submission for report AGENTI-00766 within 90 days?",
+    "answer": "Regulatory deadline for causality grading is 90 calendar days. Flag report AGENTI-00766 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00766 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00781",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00781] What priority score adjustment applies to serious adverse event criteria with severity severe?",
+    "answer": "Regulatory deadline for serious adverse event criteria is 7 calendar days. Flag report AGENTI-00781 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00781 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00796",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00796] How is medication error reporting documented in case AGENTI-00796 before routing to PV Operations?",
+    "answer": "Regulatory deadline for medication error reporting is 90 calendar days. Flag report AGENTI-00796 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00796 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00811",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00811] When does aggregate safety signal require clinician review by specialty toxicology?",
+    "answer": "Regulatory deadline for aggregate safety signal is 60 calendar days. Flag report AGENTI-00811 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00811 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00826",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00826] Which knowledge base article supports causality grading for event anaphylaxis?",
+    "answer": "Regulatory deadline for causality grading is 90 calendar days. Flag report AGENTI-00826 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00826 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00841",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00841] What regulatory deadline applies to serious adverse event criteria when seriousness flag is set on case AGENTI-00841?",
+    "answer": "Regulatory deadline for serious adverse event criteria is 15 calendar days. Flag report AGENTI-00841 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00841 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00856",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00856] How should triage assess medication error reporting for case AGENTI-00856 involving drug DrugA?",
+    "answer": "Regulatory deadline for medication error reporting is 90 calendar days. Flag report AGENTI-00856 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00856 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00871",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00871] How do agents resolve aggregate safety signal when duplicate signal matches case AGENTI-00871?",
+    "answer": "Regulatory deadline for aggregate safety signal is 7 calendar days. Flag report AGENTI-00871 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00871 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00886",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00886] Does causality grading trigger MedWatch submission for report AGENTI-00886 within 90 days?",
+    "answer": "Regulatory deadline for causality grading is 90 calendar days. Flag report AGENTI-00886 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00886 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00901",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00901] What priority score adjustment applies to serious adverse event criteria with severity life-threatening?",
+    "answer": "Regulatory deadline for serious adverse event criteria is 60 calendar days. Flag report AGENTI-00901 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00901 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00916",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00916] How is medication error reporting documented in case AGENTI-00916 before routing to Regulatory Affairs?",
+    "answer": "Regulatory deadline for medication error reporting is 15 calendar days. Flag report AGENTI-00916 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00916 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00931",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00931] When does aggregate safety signal require clinician review by specialty toxicology?",
+    "answer": "Regulatory deadline for aggregate safety signal is 15 calendar days. Flag report AGENTI-00931 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00931 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00946",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00946] Which knowledge base article supports causality grading for event GI bleed?",
+    "answer": "Regulatory deadline for causality grading is 30 calendar days. Flag report AGENTI-00946 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00946 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00961",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00961] What regulatory deadline applies to serious adverse event criteria when seriousness flag is set on case AGENTI-00961?",
+    "answer": "Regulatory deadline for serious adverse event criteria is 45 calendar days. Flag report AGENTI-00961 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00961 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00976",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00976] How should triage assess medication error reporting for case AGENTI-00976 involving drug DrugB?",
+    "answer": "Regulatory deadline for medication error reporting is 90 calendar days. Flag report AGENTI-00976 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00976 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q00991",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|00991] How do agents resolve aggregate safety signal when duplicate signal matches case AGENTI-00991?",
+    "answer": "Regulatory deadline for aggregate safety signal is 60 calendar days. Flag report AGENTI-00991 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-00991 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q01006",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|01006] Does causality grading trigger MedWatch submission for report AGENTI-01006 within 90 days?",
+    "answer": "Regulatory deadline for causality grading is 90 calendar days. Flag report AGENTI-01006 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-01006 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q01021",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|01021] What priority score adjustment applies to serious adverse event criteria with severity life-threatening?",
+    "answer": "Regulatory deadline for serious adverse event criteria is 60 calendar days. Flag report AGENTI-01021 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-01021 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  },
+  {
+    "id": "Q01036",
+    "question": "[agentic_ai_2C8AFD87|medical_knowledge_base.json|476120|pharmacovigilance|01036] How is medication error reporting documented in case AGENTI-01036 before routing to Medical Review?",
+    "answer": "Regulatory deadline for medication error reporting is 90 calendar days. Flag report AGENTI-01036 and attach supporting narrative from the knowledge base. Context (agentic_ai_2C8AFD87): pharmacovigilance triage program reference AGENTI-01036 in agentic-ai-for-pharmacovigilance-case-triage.",
+    "category": "pharmacovigilance",
+    "source": "Clinical Knowledge Base v2.1 — agentic-ai-for-pharmacovigilance-case-triage (agentic_ai_2C8AFD87)"
+  }
+]

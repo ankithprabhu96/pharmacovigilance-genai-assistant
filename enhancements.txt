@@ -1,0 +1,11 @@
+1. hybrid search for rag. It fails when asked about specific cases or patient ids 
+(row identifiers) but workd properly for semantics like "hepatoxicity", "rash" etc.
+It fails at not good at exact identifier matching. When asked "Summarize the adverse 
+event, seriousness, and regulatory information for case PV0081751", all llms said "I cannot 
+find evidence in the retrieved documents." because none of the docs were for case PV0081751.
+But it worked properly in that did not halluciunate. Hybrid search should check if quey has
+patient id or case id or drug id (PV or PT string) and then do metadata search since it is
+available.
+
+
+2. Takes too long . needs to be faster.
